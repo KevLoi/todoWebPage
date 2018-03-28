@@ -7,5 +7,5 @@ CMPS 183 Todo Application
 <li>JavaScript: responsiveness</li>
 <li>Python: bottle framework</li>
 <li>sqlite3: store todo items in database</li>
-
+<br>
 <p>To run: open terminal and type "python controller.py" then go to http://localhost:8080</p>
